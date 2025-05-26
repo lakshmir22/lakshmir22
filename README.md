@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/laksh_r22" target="blank"><img src="https://img.shields.io/twitter/follow/laksh_r22?logo=twitter&style=for-the-badge" alt="laksh_r22" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 📫 How to reach me **lakshmi2rai@gmail.com**
+- 📫 How to reach me **lakshmi2004rai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
