@@ -11,9 +11,8 @@
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently exploring **Web Development & Blockchain**  
+- 🌱 Focused on **Full Stack Development & Blockchain**  
 - 💡 Love building projects that solve real-life problems  
-- 🎯 Goal: To become a **Full-Stack Developer & Innovator**  
 
 ---
 
