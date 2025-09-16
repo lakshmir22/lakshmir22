@@ -4,12 +4,6 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=lakshmir22&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lakshmir22" /> 
-</p>
-
----
-
 ### 👩‍💻 About Me
 - 🌱 Focused on **Full Stack Development & Blockchain**  
 - 💡 Love building projects that solve real-life problems  
